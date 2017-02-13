@@ -37,6 +37,12 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 
+#Rails 101 4-8 Step3
+gem 'simple_form'
+
+#Rails 101 5-2 Step1
+gem 'devise'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
